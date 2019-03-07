@@ -1,5 +1,7 @@
 # Scrape food nutrition and price from a supermarket
 
+[Published on my blog](https://nacnudus.github.io/duncangarmonsway/posts/2019-01-07-food-nutrition-and-price/)
+
 The Office of National Statistics does this too
 https://www.ons.gov.uk/file?uri=/economy/inflationandpriceindices/articles/researchindicesusingwebscrapedpricedata/may2016update/researchindicesusingwebscrapeddatamay2016.pdf
 
